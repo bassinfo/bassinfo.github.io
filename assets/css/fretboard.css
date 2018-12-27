@@ -1,0 +1,190 @@
+.fretboard-container,
+.fretboard-container * {
+  position: relative;
+}
+
+.fretboard-container {
+  overflow: hidden;
+  /* If width is calculated in the JS this value will be
+       overridden. */
+  width: 100%;
+  /* At a certain point it doesn't make sense for the fretboard
+       size to decrease, so we set a min-width. A scroll-bar will
+       be displayed. */
+  min-width: 700px;
+  /* If height is calculated in the JS this value will be
+       overridden. */
+  height: 210px;
+  margin: 0 auto;
+}
+
+.fretboard-scroll-wrapper {
+  overflow: auto;
+}
+
+.fretboard-container .fretboard-body {
+  overflow: visible !important;
+  background: wheat;
+  border: 1px solid gray;
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  /* The margin should be as big as the box-shadow because the
+       default JS functionality fits the body inside the
+       container and won't take into account drop-shadow size,
+       but will take into account margin */
+  margin: 10px;
+  box-sizing: content-box;
+}
+
+.fretboard-container .string {
+  /* We don't want this affecting the placement of other
+       elements, so it will have absolute positioning */
+  position: absolute;
+  height: 1px;
+  width: 100%;
+  background: black;
+  z-index: 1;
+}
+
+.fretboard-container .note {
+  border-radius: 50%;
+  border: 1px solid black;
+  width: 28px;
+  height: 28px;
+  position: absolute;
+  cursor: pointer;
+  z-index: 10;
+
+  /* These will be animated */
+  opacity: 0;
+  background: white;
+}
+
+.fretboard-container .note.hover {
+  opacity: 1;
+
+  transition: opacity 0.15s linear;
+  -moz-transition: opacity 0.15s linear;
+  -webkit-transition: opacity 0.15s linear;
+  -ms-transition: background 0.15s linear;
+  -o-transition: opacity 0.15s linear;
+}
+
+.fretboard-container.is-disabled .note.hover {
+  cursor: not-allowed;
+}
+
+.fretboard-container .note.clicked {
+  background: blue;
+  border: 1px solid white;
+  opacity: 1;
+}
+
+.fretboard-container .note.clicked.red {
+  background: red;
+}
+
+.fretboard-container .note.clicked.grey {
+  background: #666;
+}
+
+.fretboard-container .note.clicked.lightgrey {
+  background: #ccc;
+}
+
+.fretboard-container .note-display {
+  position: relative;
+  text-align: center;
+  z-index: 0;
+  /* Based on the .note height */
+  top: 10px;
+  font-size: 9.5px;
+  line-height: 9.5px;
+
+  /* Make text unselectable */
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+
+  color: black;
+}
+
+.fretboard-container .note.clicked .note-display {
+  color: white;
+}
+
+.fretboard-container .fret-line-container,
+.fretboard-container .note-circle-container {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+
+.fretboard-container .fret-line {
+  background: black;
+  width: 1px;
+  position: absolute;
+  height: 100%;
+}
+
+.fretboard-container .fret-line.first {
+  width: 12px;
+}
+
+.fretboard-container .fret-line.last {
+  width: 0;
+}
+
+.fretboard-container .note-circle {
+  border-radius: 50%;
+  border: 1px solid black;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+  background: black;
+}
+
+@media (max-width: 1024px) {
+  .fretboard-container .note {
+    width: 24px;
+    height: 24px;
+  }
+
+  .fretboard-container .note-display {
+    top: 8.5px;
+    font-size: 7.5px;
+    line-height: 7.5px;
+  }
+}
+
+/* Theme Examples */
+
+/* Dark */
+.fretboard-container.dark-theme .fretboard-body {
+  background-color: black;
+}
+
+.fretboard-container.dark-theme .string {
+  background: white;
+}
+
+.fretboard-container.dark-theme .note.clicked {
+  background: green;
+  border: 1px solid white;
+}
+
+.fretboard-container.dark-theme .note {
+  border: 1px solid green;
+}
+
+.fretboard-container.dark-theme .fret-line {
+  background: white;
+}
+
+.fretboard-container.dark-theme .note-circle {
+  background: white;
+}
