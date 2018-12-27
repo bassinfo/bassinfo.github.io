@@ -31,7 +31,7 @@ categories: scales
 
   var opts = {
     tuning: bass,
-    numFrets: 24,
+    numFrets: 18,
     isChordMode: false,
     noteClickingDisabled: true,
     noteMode: "letter"
@@ -45,6 +45,13 @@ Many bass players seem to focus on _"Major scale in 2 octaves"_ and then as they
 I was taught these patterns by a GIT educated guitarist, although I see the same in Jaco Pastorius's _"Modern Electric Bass"_. Specifically _Pattern 5_ as _"Exercise 2"_ and he plays _Pattern 4_ for demonstrating diatonic 6ths in _"Exercise 7"_.
 
 I skip seeing _Pattern 1_ and _Pattern 2_ as separate and instead construct them on-the-fly from pieces of the others. They hold more meaning for guitarists who have to deal with the 1 fret displacement of a high B string. It's possible to connect Pattern 5 to 3 and 4 both horizontally and vertically. Practically imaging them as running across more strings then are on the bass.
+
+# Exercises
+
+- Play everything ascending and descending.
+- Play up one pattern and down the next.
+- Play in diatonic 3rds, 4ths, 5ths, and 6ths.
+- Also 7ths and 9ths though this may require combining patterns.
 
 # Pattern 1
 
