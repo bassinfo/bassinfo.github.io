@@ -488,7 +488,7 @@ I skip seeing _Pattern 1_ and _Pattern 2_ as separate and instead construct them
 })(jQuery);
 </script>
 
-# Sliding pattern (_Hal Leonard_)
+# Sliding pattern (_Chuck Sher_)
 
 Remember, slide up with first finger and down with pinkie.
 
