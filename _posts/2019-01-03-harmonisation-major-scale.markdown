@@ -5,11 +5,11 @@ date: 2019-01-03 00:00:00 +1100
 categories: scales
 ---
 
-### I. Ionian (Major scale).
+### I. Ionian (Major scale)
 
 Chord type: `Maj7`.
 
-### II. Dorian.
+### II. Dorian
 
 Chord type: `min7`.  
 Interval construction: `b3b7`
