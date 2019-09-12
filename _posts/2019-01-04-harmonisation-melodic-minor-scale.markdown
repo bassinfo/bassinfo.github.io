@@ -25,7 +25,7 @@ Interval construction: `#4#5`
 Chord type: `dom7`.  
 Interval construction: `#4b7`
 
-### V. Mixo-lydian &#9837;6
+### V. Mixo-lydian &#9837;6 / Aeolian dominant
 
 Chord type: `dom7`.  
 Interval construction: `b6b7`
