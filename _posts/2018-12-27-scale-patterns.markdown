@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bass Guitar Scale Patterns"
+title: "Bass Guitar Scale Patterns: Major"
 date: 2018-12-27 12:00:00 +1100
 categories: scales
 ---
