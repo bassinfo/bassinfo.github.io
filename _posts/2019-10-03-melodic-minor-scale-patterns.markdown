@@ -67,10 +67,6 @@ categories: scales
       {
         fret: 3,
         cssClass: "grey"
-      },
-      {
-        fret: 5,
-        cssClass: "grey"
       }
     ],
   },
@@ -81,16 +77,16 @@ categories: scales
     },
     notes: [
       {
+        fret: 0,
+        cssClass: "grey"
+      },
+      {
         fret: 2,
         cssClass: "grey"
       },
       {
         fret: 3,
         cssClass: "blue"
-      },
-      {
-        fret: 5,
-        cssClass: "grey"
       }
     ],
   },
@@ -101,15 +97,15 @@ categories: scales
     },
     notes: [
       {
-        fret: 1,
+        fret: 0,
         cssClass: "grey"
       },
       {
-          fret: 3,
+          fret: 1,
           cssClass: "grey"
       },
       {
-          fret: 5,
+          fret: 3,
           cssClass: "grey"
       }
     ],
@@ -121,16 +117,16 @@ categories: scales
     },
     notes: [
       {
+        fret: 0,
+        cssClass: "grey"
+      },
+      {
         fret: 2,
         cssClass: "grey"
       },
       {
         fret: 4,
         cssClass: "grey"
-      },
-      {
-        fret: 5,
-        cssClass: "blue"
       }
     ],
   }];
@@ -327,7 +323,6 @@ categories: scales
   api.setClickedNotes(patt3Notes);
 })(jQuery);
 </script>
-
 # Pattern 4
 
 <div id="patt4"></div>
@@ -343,80 +338,72 @@ categories: scales
       letter: "E",
       octave: 2
     },
-    notes: [
-      {
-        fret: 8,
-        cssClass: "blue"
-      },
-      {
-        fret: 10,
-        cssClass: "grey"
-      },
-      {
-        fret: 11,
-        cssClass: "grey"
-      }
-    ],
+    notes: [{
+      fret: 7,
+      cssClass: "grey"
+    },
+    {
+      fret: 8,
+      cssClass: "blue"
+    },
+    {
+      fret: 10,
+      cssClass: "grey"
+    }],
   },
   {
     string: {
       letter: "A",
       octave: 2
     },
-    notes: [
-      {
-        fret: 8,
-        cssClass: "grey"
-      },
-      {
-        fret: 10,
-        cssClass: "grey"
-      },
-      {
-        fret: 12,
-        cssClass: "grey"
-      }
-    ],
+    notes: [{
+      fret: 6,
+      cssClass: "grey"
+    },
+    {
+      fret: 8,
+      cssClass: "grey"
+    },
+    {
+      fret: 10,
+      cssClass: "grey"
+    }],
   },
   {
     string: {
       letter: "D",
       octave: 3
     },
-    notes: [
-      {
-        fret: 9,
-        cssClass: "grey"
-      },
-      {
-        fret: 10,
-        cssClass: "blue"
-      },
-      {
-        fret: 12,
-        cssClass: "grey"
-      }
-    ],
+    notes: [{
+      fret: 7,
+      cssClass: "grey"
+    },
+    {
+      fret: 9,
+      cssClass: "grey"
+    },
+    {
+      fret: 10,
+      cssClass: "blue"
+    }],
   },
   {
     string: {
       letter: "G",
       octave: 3
     },
-    notes: [
-      {
-        fret: 8,
-        cssClass: "grey"
-      },
-      {
-        fret: 10,
-        cssClass: "grey"
-      },
-      {
-        fret: 12,
-        cssClass: "grey"
-      }
-    ],
+    notes: [{
+      fret: 7,
+      cssClass: "grey"
+    },
+    {
+      fret: 8,
+      cssClass: "grey"
+    },
+    {
+      fret: 10,
+      cssClass: "grey"
+    }],
   }];
 
   api.setClickedNotes(patt4Notes);
@@ -439,17 +426,17 @@ categories: scales
       octave: 2
     },
     notes: [{
+      fret: 8,
+      cssClass: "blue"
+    },
+    {
       fret: 10,
       cssClass: "grey"
-  },
-  {
+    },
+    {
       fret: 11,
       cssClass: "grey"
-  },
-  {
-      fret: 13,
-      cssClass: "grey"
-  }],
+    }],
   },
   {
     string: {
@@ -457,17 +444,17 @@ categories: scales
       octave: 2
     },
     notes: [{
+      fret: 8,
+      cssClass: "grey"
+    },
+    {
       fret: 10,
       cssClass: "grey"
-  },
-  {
+    },
+    {
       fret: 12,
       cssClass: "grey"
-  },
-  {
-      fret: 14,
-      cssClass: "grey"
-  }],
+    }],
   },
   {
     string: {
@@ -475,17 +462,17 @@ categories: scales
       octave: 3
     },
     notes: [{
+      fret: 9,
+      cssClass: "grey"
+    },
+    {
       fret: 10,
       cssClass: "blue"
-  },
-  {
+    },
+    {
       fret: 12,
       cssClass: "grey"
-  },
-  {
-      fret: 13,
-      cssClass: "grey"
-  }],
+    }],
   },
   {
     string: {
@@ -493,17 +480,17 @@ categories: scales
       octave: 3
     },
     notes: [{
+      fret: 8,
+      cssClass: "grey"
+    },
+    {
       fret: 10,
       cssClass: "grey"
-  },
-  {
+    },
+    {
       fret: 12,
       cssClass: "grey"
-  },
-  {
-      fret: 14,
-      cssClass: "grey"
-  }],
+    }],
   }];
 
   api.setClickedNotes(patt5Notes);
