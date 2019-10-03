@@ -381,7 +381,7 @@ categories: scales
   {
     string: {
       letter: "D",
-      octave: 2
+      octave: 3
     },
     notes: [
       {
