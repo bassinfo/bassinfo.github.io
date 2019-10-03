@@ -380,6 +380,26 @@ categories: scales
   },
   {
     string: {
+      letter: "D",
+      octave: 2
+    },
+    notes: [
+      {
+        fret: 9,
+        cssClass: "grey"
+      },
+      {
+        fret: 10,
+        cssClass: "blue"
+      },
+      {
+        fret: 12,
+        cssClass: "grey"
+      }
+    ],
+  },
+  {
+    string: {
       letter: "G",
       octave: 3
     },
