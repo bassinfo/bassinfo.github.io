@@ -34,7 +34,9 @@ categories: scales
     numFrets: 18,
     isChordMode: false,
     noteClickingDisabled: true,
-    noteMode: "letter"
+    noteMode: "letter",
+    // Force Eb enharmonic
+    noteLetters: ["C", "C#/Db", "D", "Eb", "E", "F", "F#/Gb", "G", "Ab/G#", "A", "A#/Bb", "B"]
   };
 </script>
 
