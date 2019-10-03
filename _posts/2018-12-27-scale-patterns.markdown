@@ -53,6 +53,10 @@ I skip seeing _Pattern 1_ and _Pattern 2_ as separate and instead construct them
 - Play in diatonic 3rds, 4ths, 5ths, and 6ths.
 - Also 7ths and 9ths though this may require combining patterns.
 
+# Sequence
+
+`TTSTTTS`
+
 # Pattern 1
 
 <div id="patt1"></div>

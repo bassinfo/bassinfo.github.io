@@ -38,6 +38,10 @@ categories: scales
   };
 </script>
 
+# Sequence
+
+`TSTTTTS`
+
 # Pattern 1
 
 <div id="patt1"></div>
