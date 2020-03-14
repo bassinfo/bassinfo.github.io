@@ -346,7 +346,7 @@ Q: We're in F?
 A: Nope, we're in B.
 
 Q: So F Lydian?  
-A: **Nope, B Locrian**. Contains an F but nothing to do with *"F"* and **nothing to do with *"Lydian"***.
+A: **Nope, B Locrian**. *"I'm playing B Locrian. Using a neck position which has the index finger on F."*. Contains an F but nothing to do with *"F"* and **nothing to do with *"Lydian"***.
 
 # The problem
 
