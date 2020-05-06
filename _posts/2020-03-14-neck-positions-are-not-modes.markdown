@@ -355,3 +355,7 @@ When learning neck positions we should strive to learn them end-to-end, starting
 We should strive for **finger independance** and tying a mode or a particular sound to a pattern which *must* start on our **index finger** is very restrictive and goes against this goal. All modes extend from one end of the instrument to the other and aren't some specific set of fingerings.
 
 Neck positions should not be practised in ways which then associate that neck position with a certain tonality, but instead should be available within *any* harmonic context starting on *any* finger.
+
+# Appenditure
+
+Discovered this video which correctly describes modes while emphasising that neck postions are not modes but instead they cover the entire fretboard. [Guitar Lesson Frank Gambale Modes, No More Mysteries](https://www.youtube.com/watch?v=5sBqMxq_214)
