@@ -358,4 +358,4 @@ Neck positions should not be practised in ways which then associate that neck po
 
 # Appenditure
 
-Discovered this video which correctly describes modes while emphasising that neck postions are not modes but instead they cover the entire fretboard. [Guitar Lesson Frank Gambale Modes, No More Mysteries](https://www.youtube.com/watch?v=5sBqMxq_214)
+Discovered this video which correctly describes modes while emphasising that neck postions are not modes but instead they cover the entire fretboard. [Guitar Lesson Frank Gambale Modes, No More Mysteries](https://vimeo.com/322763149)
