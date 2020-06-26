@@ -40,7 +40,7 @@ categories: scales
 
 # Update
 
-My [previous diagrams]({% post_url 2018-12-27-scale-patterns %}) were how I learnt neck positions but probably not exactly how I actually use them. Seems the main difference is addition of *Position 6* which is like an up-side-down *Position 2*. Along with the insertion *Position 1* while shifting one down to *Position 0*.
+My [previous diagrams]({% post_url 2018-12-27-scale-patterns %}) were how I learnt neck positions but probably not exactly how I actually use them. Seems the main difference is addition of *Position 6* which is like an up-side-down *Position 2*. Along with the insertion of *Position 1* while shifting one down to *Position 0*.
 
 # Exercises
 
