@@ -52,7 +52,7 @@ Although these patterns aren't really tonalities but simply the Major scale repe
 
 When I think *"Aeolian"* it's more *"minor, with minor 6th"* (`b3b6b7`). Placing my index finger on the root (intending to move up the neck) there is a *minor 6th* up 1 string and 3 frets as found in *Position 3*. If on the other hand I placed my pinkie finger on the root (indenting to move down the neck), there is a *minor 6th* up 2 strings and down 2 frets as found in *Position 1*.
 
-This doesn't mean starting on other fingers or strings is procluded but is simply an example of how *interval constructions* of modes reintergrate into neck positions through *"muscle" memory*.
+This doesn't mean starting on other fingers or strings is precluded but is simply an example of how *interval constructions* of modes reintegrate into neck positions through *"muscle" memory*.
 
 # Exercises
 
