@@ -42,18 +42,6 @@ categories: scales
 
 My [previous diagrams]({% post_url 2018-12-27-scale-patterns %}) were how I learnt neck positions but probably not exactly how I actually use them. Seems the main difference is addition of *Position 6* which is like an up-side-down *Position 2*. Along with the insertion of *"F Lydian"* as *Position 1* while shifting one down to *Position 0*.
 
-# "Modes"
-
-Please note that *[Neck Positions are NOT Modes]({% post_url 2020-03-14-neck-positions-are-not-modes %})*. Each of these positions can be *any* mode, it all depends on where you put the emphasis.
-
-I've includes the names of what these neck positions would be **(if the index finger were the root/if the pinkie were the root)**. 
-
-Although these patterns aren't really tonalities but simply the Major scale repeated across the neck, when thinking about *[interval constructions]({% post_url 2019-01-03-harmonisation-major-scale %})* of modes you'll find yourself within a position and from there can extend it as muscle memory takes over.
-
-When I think *"Aeolian"* it's more *"minor, with minor 6th"* (`b3b6b7`). Placing my index finger on the root (intending to move up the neck) there is a *minor 6th* up 1 string and 3 frets as found in *Position 3*. If on the other hand I placed my pinkie finger on the root (indenting to move down the neck), there is a *minor 6th* up 2 strings and down 2 frets as found in *Position 1*.
-
-This doesn't mean starting on other fingers or strings is precluded but is simply an example of how *interval constructions* of modes reintegrate into neck positions through *"muscle" memory*.
-
 # Exercises
 
 - Play everything ascending and descending.
@@ -66,7 +54,7 @@ This doesn't mean starting on other fingers or strings is precluded but is simpl
 
 `TTSTTTS`
 
-# Position 0 ("E Phrygian"/"G Mixolydian")
+# Position 0
 
 <div id="patt0"></div>
 
@@ -154,7 +142,7 @@ This doesn't mean starting on other fingers or strings is precluded but is simpl
 </script>
 
 
-# Position 1 ("F Lydian"/"A Aeolian")
+# Position 1
 
 <div id="patt1"></div>
 
@@ -241,7 +229,7 @@ This doesn't mean starting on other fingers or strings is precluded but is simpl
 })(jQuery);
 </script>
 
-# Position 2 ("G Mixolydian"/"B Locrian")
+# Position 2
 
 <div id="patt2"></div>
 
@@ -328,7 +316,7 @@ This doesn't mean starting on other fingers or strings is precluded but is simpl
 })(jQuery);
 </script>
 
-# Position 3 ("A Aeolian"/"C Ionian")
+# Position 3
 
 <div id="patt3"></div>
 
@@ -499,7 +487,7 @@ This doesn't mean starting on other fingers or strings is precluded but is simpl
 })(jQuery);
 </script>
 
-# Position 4 ("B Locrian"/"D Dorian")
+# Position 4
 
 <div id="patt4"></div>
 
@@ -586,7 +574,7 @@ This doesn't mean starting on other fingers or strings is precluded but is simpl
 })(jQuery);
 </script>
 
-# Position 5 ("C Ionian"/"E Phrygian")
+# Position 5
 
 <div id="patt5"></div>
 
@@ -674,7 +662,7 @@ This doesn't mean starting on other fingers or strings is precluded but is simpl
 </script>
 
 
-# Position 6 ("D Dorian"/"F Lydian")
+# Position 6
 
 <div id="patt6"></div>
 
@@ -764,7 +752,7 @@ This doesn't mean starting on other fingers or strings is precluded but is simpl
 })(jQuery);
 </script>
 
-# Shifting pattern ("A minor")
+# Shifting pattern
 
 <div id="pattSlideMinor"></div>
 
