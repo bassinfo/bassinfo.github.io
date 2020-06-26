@@ -756,7 +756,7 @@ I've includes the names of what these neck positions would be **if the index fin
 })(jQuery);
 </script>
 
-# Sliding pattern ("A minor")
+# Shifting pattern ("A minor")
 
 <div id="pattSlideMinor"></div>
 
