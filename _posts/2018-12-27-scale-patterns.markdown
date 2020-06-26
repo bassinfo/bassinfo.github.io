@@ -38,6 +38,10 @@ categories: scales
   };
 </script>
 
+# Update
+
+[Updated diagrams]({% post_url 2020-06-26-scale-patterns %})
+
 # Origin
 
 Many bass players seem to focus on _"Major scale in 2 octaves"_ and then as they deal with figuring this out from various starting points develop a foundation of scale patterns across the neck.
