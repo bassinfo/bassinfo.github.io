@@ -44,7 +44,15 @@ My [previous diagrams]({% post_url 2018-12-27-scale-patterns %}) were how I lear
 
 # "Modes"
 
-I've includes the names of what these neck positions would be **if the index finger were the root**. Please note that *[Neck Positions are NOT Modes]({% post_url 2020-03-14-neck-positions-are-not-modes %})*. Each of these positions can be *any* mode, it all depends on where you put the emphasis.
+Please note that *[Neck Positions are NOT Modes]({% post_url 2020-03-14-neck-positions-are-not-modes %})*. Each of these positions can be *any* mode, it all depends on where you put the emphasis.
+
+I've includes the names of what these neck positions would be **(if the index finger were the root/if the pinkie were the root)**. 
+
+Although these patterns aren't really tonalities but simply the Major scale repeated across the neck, when thinking about *[interval constructions]({% post_url 2019-01-03-harmonisation-major-scale %})* of modes you'll find yourself within a position and from there can extend it as muscle memory takes over.
+
+When I think *"Aeolian"* it's more *"minor, with minor 6th"* (`b3b6b7`). Placing my index finger on the root (intending to move up the neck) there is a *minor 6th* up 1 string and 3 frets as found in *Position 3*. If on the other hand I placed my pinkie finger on the root (indending to move down the neck), there is a *minor 6th* up 2 strings and down 2 frets as found in *Position 1*.
+
+This doesn't mean starting on other fingers or strings is procluded but is simply an example of how *interval constructions* of modes reintergrate into neck positions through *"muscle" memory*.
 
 # Exercises
 
@@ -58,7 +66,7 @@ I've includes the names of what these neck positions would be **if the index fin
 
 `TTSTTTS`
 
-# Position 0 ("E Phrygian")
+# Position 0 ("E Phrygian"/"G Mixolydian")
 
 <div id="patt0"></div>
 
@@ -146,7 +154,7 @@ I've includes the names of what these neck positions would be **if the index fin
 </script>
 
 
-# Position 1 ("F Lydian")
+# Position 1 ("F Lydian"/"A Aeolian")
 
 <div id="patt1"></div>
 
@@ -233,7 +241,7 @@ I've includes the names of what these neck positions would be **if the index fin
 })(jQuery);
 </script>
 
-# Position 2 ("G Mixolydian")
+# Position 2 ("G Mixolydian"/"B Locrian")
 
 <div id="patt2"></div>
 
@@ -320,7 +328,7 @@ I've includes the names of what these neck positions would be **if the index fin
 })(jQuery);
 </script>
 
-# Position 3 ("A Aeolian")
+# Position 3 ("A Aeolian"/"C Ionian")
 
 <div id="patt3"></div>
 
@@ -491,7 +499,7 @@ I've includes the names of what these neck positions would be **if the index fin
 })(jQuery);
 </script>
 
-# Position 4 ("B Locrian")
+# Position 4 ("B Locrian"/"D Dorian")
 
 <div id="patt4"></div>
 
@@ -578,7 +586,7 @@ I've includes the names of what these neck positions would be **if the index fin
 })(jQuery);
 </script>
 
-# Position 5 ("C Ionian")
+# Position 5 ("C Ionian"/"E Phrygian")
 
 <div id="patt5"></div>
 
@@ -666,7 +674,7 @@ I've includes the names of what these neck positions would be **if the index fin
 </script>
 
 
-# Position 6 ("D Dorian")
+# Position 6 ("D Dorian"/"F Lydian")
 
 <div id="patt6"></div>
 
