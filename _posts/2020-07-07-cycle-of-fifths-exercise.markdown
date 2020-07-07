@@ -118,7 +118,7 @@ B----12-10-8----
     },
     notes: [{
       fret: 12,
-      cssClass: "grey"
+      cssClass: "blue"
     },
     {
       fret: 11,
@@ -158,7 +158,7 @@ B----12-10-8----
     },
     {
       fret: 10,
-      cssClass: "grey"
+      cssClass: "blue"
     },
     {
       fret: 9,
@@ -198,7 +198,7 @@ B----12-10-8----
     },
     {
       fret: 8,
-      cssClass: "grey"
+      cssClass: "blue"
     }],
   },
   {
