@@ -225,7 +225,7 @@ B----12-10-8----
 </script>
 
 
-Staying within the same [neck position]({% post_url 2020-06-26-scale-patterns %}) and shifting the pattern down. Each time we move a fifth through the cycle this 7 string pattern migrates down 1 string.
+Staying within the same 4 string *"3 notes per string"* [neck position]({% post_url 2020-06-26-scale-patterns %}) and shifting the pattern down. Each time we move a fifth through the cycle this 7 string pattern migrates down 1 string.
 
 # C Major Position 5
 
