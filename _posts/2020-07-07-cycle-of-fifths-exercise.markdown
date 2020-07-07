@@ -323,7 +323,7 @@ E-------------------------12-10-8--
 })(jQuery);
 </script>
 
-# G Major Position 0
+# G Major Position 1
 
 <!--
 ```
@@ -995,7 +995,7 @@ E---------------------------13-11-9--
 })(jQuery);
 </script>
 
-# Ab Major Position 0
+# Ab Major Position 1
 
 <!--
 ```
@@ -1668,8 +1668,3 @@ E----------------------------14-12-10--
   api.setClickedNotes(dmajorposition5Notes);
 })(jQuery);
 </script>
-
-# Coverage Note
-
-Anywhere *Position 0* is found *Position 1* is a mirror image up a position. 
-With that one caveate each neck position is represented via this rotation through *Cycle of Fifths*.
