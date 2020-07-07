@@ -69,8 +69,6 @@ categories: exercises, scales
   };
 </script>
 
-Staying within the same position and shifting the 7 string pattern down.
-
 # C Major 7 string pattern
 
 This repeating pattern is demonstrated by [Anthony Wellington](https://www.youtube.com/watch?v=L74DpDgMTzw&t=10m25s) on 7 string bass.
@@ -226,7 +224,8 @@ B----12-10-8----
 })(jQuery);
 </script>
 
-Each time we move a fifth through the cycle this 7 string pattern migrates down 1 string.
+
+Staying within the same [neck position]({% post_url 2020-06-26-scale-patterns %}) and shifting the pattern down. Each time we move a fifth through the cycle this 7 string pattern migrates down 1 string.
 
 # C Major Position 5
 
