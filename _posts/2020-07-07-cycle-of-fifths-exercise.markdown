@@ -2,7 +2,7 @@
 layout: post
 title: "Cycle of Fifths Neck Position Exercise"
 date: 2020-07-07 12:00:00 +1100
-categories: exercises, scales
+categories: exercises scales
 ---
 
 <link rel="stylesheet" href="/assets/css/fretboard.css">
