@@ -1503,7 +1503,7 @@ E----------------------------14-12-10--
     },
     notes: [{
       fret: 10,
-      cssClass: "blue"
+      cssClass: "grey"
     },
     {
       fret: 12,
@@ -1521,7 +1521,7 @@ E----------------------------14-12-10--
     },
     notes: [{
       fret: 10,
-      cssClass: "grey"
+      cssClass: "blue"
     },
     {
       fret: 12,
@@ -1543,7 +1543,7 @@ E----------------------------14-12-10--
     },
     {
       fret: 12,
-      cssClass: "blue"
+      cssClass: "grey"
     },
     {
       fret: 14,
@@ -1561,7 +1561,7 @@ E----------------------------14-12-10--
     },
     {
       fret: 12,
-      cssClass: "grey"
+      cssClass: "blue"
     },
     {
       fret: 14,
