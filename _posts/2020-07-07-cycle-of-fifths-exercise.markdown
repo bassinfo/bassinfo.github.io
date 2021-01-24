@@ -71,8 +71,6 @@ categories: exercises scales
 
 # C Major 7 string pattern
 
-This repeating pattern is demonstrated by [Anthony Wellington](https://www.youtube.com/watch?v=L74DpDgMTzw&t=10m25s) on 7 string bass.
-
 <!--
 ```
 F----12-11-9----
